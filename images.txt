@@ -1,2 +1,3 @@
+clawdbot/openclaw
 nginx
 rancher/shell:v0.3.0
